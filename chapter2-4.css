@@ -22,12 +22,6 @@
   background-color: orange; /* 背景色orange */
 }
 
-.main-visual {
-  width: 100%; /* 横幅いっぱい */
-  height: 300px; /* 高さ300px */
-  background-color: orange; /* 背景色orange */
-}
-
 .main {
   width: 960px; /* 横幅960px */
   display:flex;/*Flexboxの利用*/
@@ -36,7 +30,7 @@
 }
 
 .blog{
-  width: 500px;/*横幅600px*/
+  width: 500px;/*横幅500px*/
   height:1400px;/*高さ1400px*/
   background-color:limegreen;/*背景色limegreen*/
 }
