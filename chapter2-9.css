@@ -43,3 +43,21 @@ main{
   background-position: bottom;
   background-size: cover;
 }
+
+.number{
+  position: absolute;
+  padding: 2px;
+  top:0;
+  left: 0;
+  color: #FFFFFF;
+  background-color: #ff9a4b;
+}
+
+.title{
+  margin: 15px 0 5px;
+}
+
+footer{
+  height: 50px;
+  background-color: #AAAAAA;
+}
